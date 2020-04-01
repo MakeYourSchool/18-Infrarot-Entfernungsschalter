@@ -23,8 +23,8 @@ Das Repository basiert grundlegend auf den veröffentlichten Informationen und C
 
 **Weitere Informationen:**
 
-[Repository von Seed Studio](https://github.com/Seeed-Studio/Grove_IR_Distance_Sensor)
+[Repository von Seeed Studio](https://github.com/Seeed-Studio/Grove_IR_Distance_Sensor)
 
-[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove-IR_Distance_Interrupter_v1.2/)
+[Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-IR_Distance_Interrupter_v1.2/)
 
 [Materialkoffer von *Make Your School*](https://www.makeyourschool.de/material/infrarot-entfernungsschalter/)
