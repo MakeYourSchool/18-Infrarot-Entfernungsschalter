@@ -4,6 +4,8 @@ Infrarot-Entfernungsschalter
 
 <img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/18_infrarot_entfernungsschalter-1024x1024.jpg width=400px>
 
+Bildquelle: *Wissenschaft im Dialog*
+
 Der Infrarot-Entfernungsschalter ist ein Sensor, der – ähnlich einer Lichtschranke – Objekte erkennt, sobald sie den vom Sensor ausgestrahlten Infrarot-Strahl durchqueren. Der Sensor strahlt permanent einen Infrarot-Lichtstrahl aus und erkennt das durch ein Objekt leicht reflektierte Licht. Hierbei werden helle Objekte besser erkannt als dunkle. Der Messbereich erstreckt sich von 7,5cm bis 40cm. Die Sensitivität kann auf dem Modul eingestellt werden.
 
 Der Sensor wird direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Er kommuniziert über einen digitalen Pin.
